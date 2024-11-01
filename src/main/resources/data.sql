@@ -1,0 +1,1 @@
+insert into person(id, firstName, lastName, age) values ( 100, 'Ali', 'Alavi', 20 )
